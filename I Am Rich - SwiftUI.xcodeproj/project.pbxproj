@@ -25,6 +25,7 @@
 		B43C4B5324FD95DF00A1AE1E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B43C4B5524FD95DF00A1AE1E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B43C4B5C24FD98E600A1AE1E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		B43C4B5D24FD99B800A1AE1E /* HomeScreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HomeScreen.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +43,7 @@
 			isa = PBXGroup;
 			children = (
 				B43C4B5C24FD98E600A1AE1E /* README.md */,
+				B43C4B5D24FD99B800A1AE1E /* HomeScreen.png */,
 				B43C4B4624FD95DD00A1AE1E /* I Am Rich - SwiftUI */,
 				B43C4B4524FD95DD00A1AE1E /* Products */,
 			);
